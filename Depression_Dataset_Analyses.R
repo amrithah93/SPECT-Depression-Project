@@ -120,5 +120,4 @@ ggcorrplot(corr_full,
            type = "full",
            lab = TRUE)
 
-#do some preliminary ML classification
-install.packages("OneR")
+
